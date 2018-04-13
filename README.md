@@ -1,1 +1,1 @@
-# GrabCut-Using-Color-Difference-Priors
+# Chess-Board-Detection
